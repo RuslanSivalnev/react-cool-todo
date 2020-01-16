@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9a60a5-ca54-4e58-8e52-6f5661cc8d9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/context/firebase/FirebaseState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/firebase/firebaseReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/firebase/FirebaseState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/firebase/FirebaseState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/firebase/firebaseReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/firebase/firebaseReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -59,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1578914641284</updated>
       <workItem from="1578914643065" duration="3266000" />
-      <workItem from="1578981359318" duration="6490000" />
+      <workItem from="1578981359318" duration="6625000" />
+      <workItem from="1579070870742" duration="3070000" />
+      <workItem from="1579154055240" duration="5979000" />
     </task>
     <servers />
   </component>
@@ -75,10 +84,10 @@
       <screen x="66" y="23" width="1854" height="1057" />
     </state>
     <state x="479" y="358" key="SettingsEditor/66.23.1854.1057@66.23.1854.1057" timestamp="1578988638822" />
-    <state x="338" y="515" width="666" height="472" key="find.popup" timestamp="1578985592325">
+    <state x="338" y="515" width="666" height="472" key="find.popup" timestamp="1579161891718">
       <screen x="66" y="23" width="1854" height="1057" />
     </state>
-    <state x="338" y="515" width="666" height="472" key="find.popup/66.23.1854.1057@66.23.1854.1057" timestamp="1578985592325" />
+    <state x="338" y="515" width="666" height="472" key="find.popup/66.23.1854.1057@66.23.1854.1057" timestamp="1579161891718" />
     <state x="1276" y="404" width="670" height="676" key="search.everywhere.popup" timestamp="1578987038728">
       <screen x="66" y="23" width="1854" height="1057" />
     </state>
